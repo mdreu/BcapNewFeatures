@@ -12,7 +12,10 @@
   --background: linear-gradient(to left top, var(--color-accent), var(--color-secondary), var(--color-main));
   
 }
-
+#date {
+  color: #335962;
+  font-family: "Roboto", sans-serif;
+}
 html {
   height: 100%;
   background: -webkit-gradient(linear, right bottom, left top, from(var(--color-accent)), color-stop(var(--color-secondary)), to(var(--color-main))) no-repeat;

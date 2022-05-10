@@ -248,7 +248,10 @@ html {
   }
 }/*# sourceMappingURL=style.css.map */
 
-
+#date {
+  color: #335962;
+  font-family: "Roboto", sans-serif;
+}
 
 #form label {
  text-transform: uppercase;
